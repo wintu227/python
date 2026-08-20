@@ -1,0 +1,4 @@
+Laptop,10
+Mouse,25
+keyboard,15
+Monitor,8
